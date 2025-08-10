@@ -1,0 +1,2 @@
+/* higherOrder adında bir fonksiyon yaz. Bu fonksiyon, bir liste ve bir fonksiyon parametresi alsın. Listedeki elemanlara bu fonksiyonu uygulasın.
+Örnek kullanım: higherOrder([1, 2, 3], (x) => x * 3);  */
